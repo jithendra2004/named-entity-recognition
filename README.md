@@ -5,10 +5,8 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
+![image](https://github.com/jithendra2004/named-entity-recognition/assets/94226297/da1602ad-083f-4525-acd4-a8c91a321371)
 
-## Neural Network Model
-
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
